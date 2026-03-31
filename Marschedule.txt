@@ -1,0 +1,8 @@
+Hyatt Hotel cambodia
+[Hotel Information]
+check-in time : 7:00 AM 
+check-out time : 10 : 00 PM 
+
+[Convenience facilities]
+- wifi
+- one bed
